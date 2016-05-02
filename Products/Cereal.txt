@@ -1,0 +1,4 @@
+Field Day,Raisin Bran Cereal,$4,14 oz$0.29/oz,Field Day,Honey Nut O's Cereal,$4,14 oz$0.29/oz
+Nature's Path Organic,Heirloom Whole Grains,$4.75,13.25 oz$0.36/oz,General Mills,Cheerios,$6,18 oz$0.33/oz
+Kashi,Cinnamon Cereal Whole Wheat,$4.75,16.3 oz$0.29/oz,Nature's Path Organic,Peanut Butter Puffs Cereal,$4.50,10.6 oz$0.42/oz
+Barbara's,Puffins Cereal Peanut Butter,$4.50,11 oz$0.41/oz,Barbara's,Organic Brown Rice Crisps,$5,10 oz$0.50/oz

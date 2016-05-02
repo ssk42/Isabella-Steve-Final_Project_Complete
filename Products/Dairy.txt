@@ -1,0 +1,6 @@
+Trickling Springs Creamery,Organic Whole Milk,$4.90,0.5 gal$9.80/gal,Wallaby,Organic Whole Milk Plain Greek Yogurt,$6.50,32 oz$0.20/oz
+Brown Cow,Cream Top Strawberry Yogurt,$1,6 oz$0.15/oz,Chobani,Non-Fat Strawberry Greek Yogurt,$1.50,5.3 oz$0.24/oz
+Artisan Market,Domestic Feta,$3.75,about 8 oz$0.47/oz,Artisan Cheese & Deli,Domestic Sliced Swiss Cheese,$4.50,about 0.5 lb$9/lb
+Tillamook,Sharp Cheddar Cheese,$4.50,about 0.5 lb$9/lb,Tillamook,Kerrygold Pure Irish Salted Butter,$4 oz,8 oz$0.50/oz
+So Delicious,Organic Unsweetened Coconut Milk,$2.75,32 fl oz$0.09/fl oz,Blue Diamond,Almond Milk Unsweetened Original,$2.75,32 fl oz$0.09/fl oz
+Daisy,Sour Cream,$2,8 oz$0.25/oz,Trickling Springs Creamery,Organic Heavy Cream,$5.50,1 pt$5.50/pt

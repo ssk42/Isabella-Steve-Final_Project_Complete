@@ -1,0 +1,4 @@
+Annie's,Organic Bernie O's,$2.50, 15 oz$0.18/oz,Muir Glen,Tomato Paste,$1.50,6 oz$0.25/oz
+Muir Glen,Fire Roasted Diced Tomatoes,$3.25,28 oz$0.12/oz, Del Monte,Whole Kernel Corn,$1.10,8.75 oz$0.13/oz
+Cento,Roasted Red Peppers,$3.50,12 oz$0.29/oz,Farmer's Market,Organic Pumpkin Tetra Pak,$2.75,15 oz$0.18/oz
+Essential Everyday,Cut Green Beans,$1,14.5 oz$0.07/oz,Badia,Hearts of Palm,$2.75,14 oz$0.20/oz

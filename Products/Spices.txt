@@ -1,0 +1,3 @@
+The Ginger People,Organic Minced Ginger,$3,6.7 oz$0.45/oz,The Spice Diva,Basil,$1.50,0.25 oz$6/oz,
+The Spice Diva,Parsley,$1.50,0.25 oz$6/oz,The Spice Diva,Red Crushed Chili Flakes,$0.60,0.25 oz$2.40/oz
+The Spice Diva,Ancho Chili,$3.25,0.5 oz$6.50/oz

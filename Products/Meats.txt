@@ -1,0 +1,6 @@
+Metro Deli,Roasted Turkey Breast,$5,about 0.5 lb$10/lb,Metro Deli,Natural Smoked Ham Sliced,$5,about 0.5 lb$10/lb
+Applegate Farms,Black Forest Ham Sliced,$5.75-$6.25,about 0.5 lbs$11.50/lbs,Metro Deli,Natural Honey Roasted Ham,$5,about 0.5 lb$10/lb
+Metro Deli,Natural Roast Beef Sliced,$6,about 0.5 lb$12/lb,Applegate Farms,Uncured Pepperoni,$6,5 oz$1.20/oz
+Applegate Farms,Uncured Honey Ham,$6,7 oz$0.86/oz,SVO,Family Size Boneless Skinless Chicken Breast,$11,about 2 lb$5.50/lb
+Wolf Creek,Ground Beef Patties,$5,two - about 0.25 lb patties$10/lb,Wolf Creek,Grass Fed Ground Beef,$8.25,about 1 lb$8.25/lb
+Sausage Craft,San Miniato Sausage,$7.75,about 0.8 lb$9.69/lb

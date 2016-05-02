@@ -1,0 +1,6 @@
+Relay Produce,Bananas,$0.35,1 ea$0.35/ea,Relay Organic Produce,Organic Lemon,$0.75,1 ea$0.75/ea
+Relay Produce,Avocados,$1.50,1 ea$1.50/ea,Relay Organic Produce,Organic Gala Apples,$1.50,1 ea$1.50/ea
+Relay Organic Produce,Organic Blueberries,$5.50,4.4 oz$1.25/oz,Relay Organic Produce,Organic Strawberries,$5.50,about 1 lb$5.50/lb
+Relay Organic Produce,Organic Mango,$2.50,1 ea$2.50/ea,Relay Produce,Red Seedless Grapes,$5.75,about 2 lb$2.88/lb
+Relay Organic Produce,Organic Kiwi,$0.75,1 ea$0.75/ea,Relay Organic Produce,Organic Pineapple,$5.50,1 ea$5.50/ea
+Relay Produce,Green Seedless Grapes,$6,about 2 lb$3/lb,Relay Produce,Large Cantaloupe,$3.50,1 ea$3.50/ea

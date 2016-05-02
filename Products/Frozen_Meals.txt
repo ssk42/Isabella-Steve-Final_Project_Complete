@@ -1,0 +1,6 @@
+Amy's,Macaroni and Cheese,$3.25,9 oz$0.36/oz,Bombolini Pasta,Vegetable Lasagna,$11,1 ea$11/ea
+Blake's,Chicken Pot Pie,$4.25,8 oz$0.53/oz,BreadWorks Bakery,White Pizza Dough,$3,16 oz$0.19/oz
+BreadWorks Bakery,Whole Wheat Pizza Dough,$3,16 oz$0.19/oz,Culinary Circle,Rising Crust Five Cheese Pizza,$5.50,29 oz$0.19/oz
+Culinary Circle,Rising Crust Pepperoni Pizza,$5.50,30.5 oz$0.18/oz,Amy's,Cheddar Cheese Burrito,$3,6 oz$0.50/oz
+Sweet Earth,Protein Lover Meatless Burrito,$3.75,6 oz$0.63/oz,Wild Harvest Organic,Organic Homestyle Waffles,$2,7.4 oz$0.27/oz
+Wild Harvest Organic,Organic Blueberry Waffles,$2.50,7.4 oz$0.34/oz
