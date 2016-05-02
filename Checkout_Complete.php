@@ -35,7 +35,7 @@
     					<button  id='Checkout' onClick='parent.location=\"Checkout.php\"'>Checkout</button>
     					<br>
     					<button  id='Checkout' onClick='parent.location=\"ShoppingCartViewer.php\"'>Back to Shopping Cart</button></center>
-    					clearHistory();
+    					<button id='Checkout' onclick='clearHistory();'>Clear History</button>
 		";
 			}
 	else {	
